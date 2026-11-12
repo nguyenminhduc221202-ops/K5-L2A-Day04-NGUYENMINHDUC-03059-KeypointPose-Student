@@ -6,15 +6,15 @@ Dữ liệu: 12 ảnh người COCO val2017 (Lin et al., 2014) và 8 ảnh chân
 
 ## 0. Thông tin học viên
 
-- Họ tên:
-- MSSV:
-- Email:
+- Họ tên: nguyen minh duc
+- MSSV: 03059
+- Email: nguyenminhduc221202@gmail.com
 - Link repository:
-- Phiên bản CVAT (Help → About):
-- Máy: hệ điều hành ___ · RAM ___ GB · chạy CVAT chế độ đầy đủ / lite
-- Bộ ảnh (`src/exports/assignment.json` do `lab.py setup` tạo): có / không
-- Giờ bắt đầu:
-- Giờ kết thúc:
+- Phiên bản CVAT (Help → About):cvat 2.x
+- Máy: hệ điều hành win11 26h2 · RAM 32 GB · chạy CVAT chế độ đầy đủ 
+- Bộ ảnh (`src/exports/assignment.json` do `lab.py setup` tạo): có 
+- Giờ bắt đầu:4:30
+- Giờ kết thúc:7:00
 
 ## 1. Kiểm tra label (CP0)
 

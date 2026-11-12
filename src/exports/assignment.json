@@ -1,0 +1,65 @@
+{
+ "mssv": "03059",
+ "ten": "Nguyenminhduc",
+ "pool_version": "d04-k5-v2",
+ "cvat_user": "haru2211",
+ "project": "d04-keypoint",
+ "persons": [
+  "000000043968.jpg",
+  "000000175703.jpg",
+  "000000205650.jpg",
+  "000000308257.jpg",
+  "000000390585.jpg",
+  "000000090646.jpg",
+  "000000179201.jpg",
+  "000000302102.jpg",
+  "000000391222.jpg",
+  "000000480582.jpg",
+  "000000167027.jpg",
+  "000000332273.jpg"
+ ],
+ "faces": [
+  "face_122747.jpg",
+  "face_257657.jpg",
+  "face_469647.jpg",
+  "face_223746.jpg",
+  "face_356144.jpg",
+  "face_380754.jpg",
+  "face_296767.jpg",
+  "face_490361.jpg"
+ ],
+ "tasks": {
+  "persons": {
+   "task_id": 8,
+   "job_id": 8,
+   "task_name": "persons-Nguyenminhduc"
+  },
+  "faces": {
+   "task_id": 9,
+   "job_id": 9,
+   "task_name": "faces-Nguyenminhduc"
+  },
+  "persons-extra": {
+   "task_id": 10,
+   "job_id": 10,
+   "task_name": "persons-extra-Nguyenminhduc"
+  },
+  "faces-extra": {
+   "task_id": 11,
+   "job_id": 11,
+   "task_name": "faces-extra-Nguyenminhduc"
+  }
+ },
+ "persons_extra": [
+  "000000074156.jpg",
+  "000000125998.jpg",
+  "000000188948.jpg"
+ ],
+ "faces_extra": [
+  "face_280788.jpg",
+  "face_344941.jpg",
+  "face_45276.jpg",
+  "face_494518.jpg",
+  "face_68290.jpg"
+ ]
+}
